@@ -1,0 +1,33 @@
+SLIDE 1: Biocon Limited — Biotechnology Case Study
+CodeAlpha Biotechnology Internship
+Case study of a biotechnology company, its innovation, applications, challenges and market impact.
+
+SLIDE 2: Biocon is an Indian biotechnology company with operations spanning biopharmaceuticals, biosimilars, generics and research-led products.
+The company has developed a large-scale biotechnology business model combining research, manufacturing and global commercialization.
+
+SLIDE 3: A major focus is biosimilars: biologic medicines designed to be highly similar to already approved reference biologics.
+Biosimilar development requires analytical characterization, process development, clinical evidence where required, regulatory review and reliable manufacturing.
+
+SLIDE 4: Biocon Biologics develops and manufactures biosimilar medicines in areas including diabetes, oncology and immunology.
+The platform depends on cell-line development, bioprocessing, purification, analytical testing, quality systems and regulated manufacturing.
+
+SLIDE 5: Biologics can be highly effective but may be expensive and difficult to manufacture.
+Biosimilars can expand treatment options and may support greater affordability and availability when approved and appropriately adopted.
+
+SLIDE 6: Applications include insulin and other therapies for chronic disease, cancer treatment and immune-mediated conditions.
+The value is strongest where high-cost biologic therapies create access barriers and where biosimilar competition can broaden supply.
+
+SLIDE 7: Biocon has built an international biotechnology and biopharmaceutical presence.
+Its biosimilar strategy contributes to the wider shift toward more accessible biologic medicines and demonstrates the growth of biotechnology manufacturing in India.
+
+SLIDE 8: Key challenges include regulatory complexity, manufacturing consistency, large development costs, competition, supply-chain requirements and maintaining product quality at global scale.
+Biologics also require strong cold-chain, analytical and quality-control systems.
+
+SLIDE 9: Biopharmaceutical products must meet strict standards for quality, safety and efficacy.
+Responsible development requires validated manufacturing processes, pharmacovigilance, transparent evidence and compliance with national and international regulatory requirements.
+
+SLIDE 10: Growth opportunities include new biosimilars, improved manufacturing technologies, digital quality systems and expansion into additional therapeutic areas.
+The company can also benefit from continued global demand for high-quality biologic medicines at more sustainable costs.
+
+SLIDE 11: Biocon illustrates how biotechnology can move from research to industrial-scale healthcare products.
+References: Biocon corporate information; Biocon Biologics; U.S. FDA biosimilar guidance; WHO biotechnology and medicines resources.
